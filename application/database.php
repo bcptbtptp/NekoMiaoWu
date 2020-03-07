@@ -17,9 +17,9 @@ return [
     // 数据库名
     'database'        => 'zerg',
     // 用户名
-    'username'        => 'root',
+    'username'        => '用户名',
     // 密码
-    'password'        => '198964',
+    'password'        => '密码',
     // 端口
     'hostport'        => '82',
     // 连接dsn
